@@ -9,6 +9,7 @@ return elements in Last In First Out order.
    Make sure the Stack tests pass.
 3. What is the difference between using an array vs. a linked list when 
    implementing a Stack?
+   - The linked list is a class instance and the array is a data type.
 """
 import sys
 sys.path.insert(1, "/Users/mph/Lambda/cspt-9/Data-Structures/singly_linked")
